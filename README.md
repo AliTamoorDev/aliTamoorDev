@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- ✨ I having 3 years of experience in Software Development.
+- ✨ I have 3 years of working experience in Software Development.
 - 🔭 I’m currently working on iOS + Android Projects.
 - 🌱 I’m currently learning Native Android development using Java + Kotlin.
 - 👯 I’m looking to collaborate on native iOS and Android projects.
